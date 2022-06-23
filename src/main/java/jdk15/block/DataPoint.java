@@ -18,6 +18,9 @@ public class DataPoint {
         temperature = temp;
     }
 
+    /**
+     * 支持格式化输出
+     */
     @Override
     public String toString() {
         return """
