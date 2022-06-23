@@ -10,7 +10,7 @@ package jdk11;
  */
 public class TypeInference {
     void method() {
-        //显示类型。
+        //显示指定类型。
         String hello1 = "hello";
         //类型推断
         var hello = "hello!";
